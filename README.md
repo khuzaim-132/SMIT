@@ -1,2 +1,2 @@
 # SMIT-LAB
-I am fron-emd developer
+I am fron-end developer
