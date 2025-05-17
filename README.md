@@ -1,1 +1,1 @@
-# SMIT
+# SMIT-LAB
