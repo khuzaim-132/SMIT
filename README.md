@@ -1,4 +1,4 @@
 # SMIT-LAB
-I am fron-end developer
+I am a front-end developer
 
 #  HTML PROJECT
